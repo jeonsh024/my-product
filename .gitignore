@@ -1,0 +1,29 @@
+
+# Node
+dist/
+node_modules/
+
+# Vite
+.vite/
+*.log
+*.tsbuildinfo
+
+# Env
+.env.local
+.env*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Custom Git Ignores
+auto-imports.d.ts
+components.d.ts
+eslint-config-auto-import.json
+.eslintrc-auto-import.json
